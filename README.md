@@ -1,0 +1,1 @@
+This repository contains my solutions to a variety of problems completed on LeetCode. 
